@@ -1,4 +1,4 @@
-# Code implementation for paper "Estimating High Dimensional Robust Mixture Model via Trimmed Expectation-Maximization Algorithm"
+# Code implementation for paper "Robust Expectation Maximization Algorithm via Trimmed Hard Thresholding"
 
 # Remark
 
